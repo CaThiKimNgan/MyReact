@@ -1,6 +1,6 @@
 # MyReact
 Bài tập môn React
-##Lý Thuyết
+#(only)Lý Thuyết
 1. [Câu 9](https://codepen.io/CaThiKimNgan/pen/LYrZLXE)
 2. [Câu 10](https://codepen.io/CaThiKimNgan/pen/BaVWaBv)
 3. [Câu 11](https://codepen.io/CaThiKimNgan/pen/PoapVzm)
