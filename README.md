@@ -25,4 +25,3 @@ Bài tập môn React
 ## Thực Hành
 1. [Bài thực hành Props và State](https://codepen.io/CaThiKimNgan/pen/JjZaqdZ)
 2. [Bài thực hành số 1](https://codepen.io/CaThiKimNgan/pen/RwJjEEM)
-3. [Dự án hoàn chỉnh](https://codepen.io/CaThiKimNgan/pen/NWzJdRP)
